@@ -29,6 +29,7 @@
 
 **CALCULATION:** 
 <img width="1125" height="1500" alt="image" src="https://github.com/user-attachments/assets/8c45ddbd-f08b-449d-b4d8-517403392331" />
+<img width="1600" height="1036" alt="image" src="https://github.com/user-attachments/assets/3036abef-d284-41d8-9faa-a2941c1b3726" />
 
 
 **PROCEDURE:** 
