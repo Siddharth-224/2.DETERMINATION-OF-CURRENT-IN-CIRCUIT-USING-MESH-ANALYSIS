@@ -45,7 +45,11 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
-   **RESULT:**
+**MARKS SPLIT-UP:** 
+
+<img width="1475" height="1300" alt="image" src="https://github.com/user-attachments/assets/3a155d8b-987d-48f5-8508-d61940327250" />
+
+**RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 1V supply are:
 
